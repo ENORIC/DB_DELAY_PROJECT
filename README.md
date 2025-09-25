@@ -1,6 +1,6 @@
 ## Germany’s Railway Paradox
-- Discssuing about DB Delays's
-- 
+- Discusing about DB Delays's
+
 Germany is often celebrated as a land of efficiency and punctuality. Yet, one of its greatest challenges lies at the core of its mobility: the national railway system operated by **Deutsche Bahn (DB)**.  
 
 For millions of commuters, DB is both indispensable and frustrating — a love–hate relationship that shapes the rhythm of everyday life. While DB connects workers, families, and entire regions, its persistent delays disrupt schedules, productivity, and even the country’s reputation for timeliness.  
