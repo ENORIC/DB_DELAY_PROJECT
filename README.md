@@ -7,6 +7,12 @@ For millions of commuters, DB is both indispensable and frustrating — a love�
 
 This project explores the story hidden within DB’s delays. By analyzing real-world data, the goal is to uncover trends, highlight problem areas, and provide insights into one of Germany’s most talked-about public issues.  
 
+## PLEASE DOWNLOAD THE DATASET FROM THIS LINK
+The dataset was quite big to be uploaded to github hence the dataset was uploaded in google drive so please download the dataset from there
+GOOGLE DRIVE LINK-->
+
+https://drive.google.com/drive/folders/15mGyWyDkivdMMjkLCiz_2qd_OQlHtyAq?usp=sharing 
+
 *The Objectives are*
 - Identify patterns and trends in train delays  
 - Explore factors that contribute to delays  
